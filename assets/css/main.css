@@ -2472,7 +2472,7 @@
 		position: fixed;
 		text-align: center;
 		top: 0;
-		width: 23em;
+		width: 18em;
 		right: 0;
 	}
 
@@ -2584,7 +2584,7 @@
 
 	#wrapper {
 		background: #fff;
-		padding-right: 23em;
+		padding-right: 18em;
 	}
 
 /* Main */
@@ -2601,9 +2601,9 @@
 			border-top: 0;
 		}
 
-/* One */
+/* About */
 
-	#one:before {
+	#About:before {
 		background-image: url("../../images/banner.jpg");
 		background-position: top right;
 		background-repeat: no-repeat;
@@ -2650,12 +2650,16 @@
 
 /* XLarge */
 
-	@media screen and (max-width: 1680px) {
+	@media screen and (min-width: 1680px) {
 
 		/* Basic */
 
 			body, input, select, textarea {
 				font-size: 13pt;
+			}
+
+			html, body{
+				font-size:13pt;
 			}
 
 		/* Header */
@@ -3098,4 +3102,12 @@
 ul.feature-icons
 {
 	font-size: 22px;
+}
+
+ul.tech{
+	
+	list-style:disclosure-closed;
+}
+ul.tech > li{
+	margin-left: 1em;
 }
