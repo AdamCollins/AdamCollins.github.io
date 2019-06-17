@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.27749051.chunk.css",
-    "main.js": "/static/js/main.85a47618.chunk.js",
-    "main.js.map": "/static/js/main.85a47618.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.fe74e7a7.chunk.js": "/static/js/2.fe74e7a7.chunk.js",
-    "static/js/2.fe74e7a7.chunk.js.map": "/static/js/2.fe74e7a7.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.3e6117b6a1cba47c8b716434950ab595.js": "/precache-manifest.3e6117b6a1cba47c8b716434950ab595.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.27749051.chunk.css.map": "/static/css/main.27749051.chunk.css.map"
+    "main.css": "/laoshi/static/css/main.27749051.chunk.css",
+    "main.js": "/laoshi/static/js/main.9abc73c1.chunk.js",
+    "main.js.map": "/laoshi/static/js/main.9abc73c1.chunk.js.map",
+    "runtime~main.js": "/laoshi/static/js/runtime~main.5dd4d02e.js",
+    "runtime~main.js.map": "/laoshi/static/js/runtime~main.5dd4d02e.js.map",
+    "static/js/2.fe74e7a7.chunk.js": "/laoshi/static/js/2.fe74e7a7.chunk.js",
+    "static/js/2.fe74e7a7.chunk.js.map": "/laoshi/static/js/2.fe74e7a7.chunk.js.map",
+    "index.html": "/laoshi/index.html",
+    "precache-manifest.894608ae767f55d87151c094a98d5780.js": "/laoshi/precache-manifest.894608ae767f55d87151c094a98d5780.js",
+    "service-worker.js": "/laoshi/service-worker.js",
+    "static/css/main.27749051.chunk.css.map": "/laoshi/static/css/main.27749051.chunk.css.map"
   }
 }
