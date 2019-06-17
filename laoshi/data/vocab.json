@@ -76,7 +76,7 @@
 {
     "character": "没关系",
     "pinyin": ["méiguānxì", "meiguanxi"],
-    "english": ["no problem", "dont mention it", "its okay","it's okay","you are welcome"]
+    "english": ["no problem", "no worries", "dont mention it", "its okay","it's okay","you are welcome"]
 },
 {
     "character": "秋天",
@@ -86,7 +86,7 @@
 {
     "character": "春天",
     "pinyin": ["chūntiān", "chuntian"],
-    "english": ["sprint", "spring time"]
+    "english": ["spring", "spring time"]
 },
 {
     "character": "夏天",
