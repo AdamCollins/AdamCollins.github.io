@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/laoshi/static/css/main.27749051.chunk.css",
-    "main.js": "/laoshi/static/js/main.9abc73c1.chunk.js",
-    "main.js.map": "/laoshi/static/js/main.9abc73c1.chunk.js.map",
+    "main.js": "/laoshi/static/js/main.f083dcaa.chunk.js",
+    "main.js.map": "/laoshi/static/js/main.f083dcaa.chunk.js.map",
     "runtime~main.js": "/laoshi/static/js/runtime~main.5dd4d02e.js",
     "runtime~main.js.map": "/laoshi/static/js/runtime~main.5dd4d02e.js.map",
     "static/js/2.fe74e7a7.chunk.js": "/laoshi/static/js/2.fe74e7a7.chunk.js",
     "static/js/2.fe74e7a7.chunk.js.map": "/laoshi/static/js/2.fe74e7a7.chunk.js.map",
     "index.html": "/laoshi/index.html",
-    "precache-manifest.894608ae767f55d87151c094a98d5780.js": "/laoshi/precache-manifest.894608ae767f55d87151c094a98d5780.js",
+    "precache-manifest.9ce9b7f7b02e3f6ba261fa6549dbc3ec.js": "/laoshi/precache-manifest.9ce9b7f7b02e3f6ba261fa6549dbc3ec.js",
     "service-worker.js": "/laoshi/service-worker.js",
     "static/css/main.27749051.chunk.css.map": "/laoshi/static/css/main.27749051.chunk.css.map"
   }
