@@ -172,12 +172,6 @@
     "pinyin": ["dà", "da"],
     "english": ["big"]
 },
-
-{
-    "character": "点",
-    "pinyin": ["diǎn", "dian"],
-    "english": [""]
-},
 {
     "character": "电脑",
     "pinyin": ["diànnǎo", "diannao"],
@@ -411,17 +405,17 @@
 {
     "character": "能",
     "pinyin": ["néng", "neng"],
-    "english": [""]
+    "english": ["can"]
 },
 {
     "character": "你",
     "pinyin": ["nǐ", "ni"],
-    "english": [""]
+    "english": ["i", "me"]
 },
 {
     "character": "年",
     "pinyin": ["nián", "nian"],
-    "english": [""]
+    "english": ["year"]
 },
 {
     "character": "女儿",
