@@ -426,5 +426,80 @@
     "character": "朋友",
     "pinyin": ["péngyou", "pengyou"],
     "english": ["friend"]
+},
+{
+    "character": "礼服",
+    "pinyin": ["lǐfú", "lifu"],
+    "english": ["dress"]
+},
+{
+    "character": "黑色",
+    "pinyin": ["hēisè", "heise"],
+    "english": ["black"]
+},
+{
+    "character": "白色",
+    "pinyin": ["báisè", "baise"],
+    "english": ["white"]
+},
+{
+    "character": "红色",
+    "pinyin": ["hóngsè", "hongse"],
+    "english": ["red"]
+},
+{
+    "character": "蓝色",
+    "pinyin": ["lánsè", "lanse"],
+    "english": ["blue"]
+},
+{
+    "character": "黄色",
+    "pinyin": ["huángsè", "huangse"],
+    "english": ["yellow"]
+},
+{
+    "character": "颜色",
+    "pinyin": ["yánsè", "yanse"],
+    "english": ["color", "colour"]
+},
+{
+    "character": "迟到里",
+    "pinyin": ["chídàolǐ", "chidaoli"],
+    "english": ["late", "late in"]
+},
+{
+    "character": "黄色",
+    "pinyin": ["huángsè", "huangse"],
+    "english": ["yellow"]
+},
+{
+    "character": "不客气",
+    "pinyin": ["bùkèqì","bukeqi"],
+    "english": ["you are welcome","youre welcome"]
+},
+{
+    "character": "北",
+    "pinyin": ["běi", "bei"],
+    "english": ["north"]
+},
+{
+    "character": "东",
+    "pinyin": ["dōng", "dong"],
+    "english": ["east"]
+},
+{
+    "character": "南",
+    "pinyin": ["nán", "nan"],
+    "english": ["south"]
+},
+{
+    "character": "西",
+    "pinyin": ["xī", "xi"],
+    "english": ["west"]
+},
+{
+    "character": "更",
+    "pinyin": ["gèng", "geng"],
+    "english": ["more"]
 }
 ]
