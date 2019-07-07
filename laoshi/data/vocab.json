@@ -26,7 +26,7 @@
 {
     "character": "杯子",
     "pinyin": ["bēizi", "beizi"],
-    "english": ["cup"]
+    "english": ["cup", "mug"]
 },
 {
     "character": "请问",
@@ -498,8 +498,63 @@
     "english": ["west"]
 },
 {
-    "character": "更",
-    "pinyin": ["gèng", "geng"],
+    "character": "更多",
+    "pinyin": ["gèngduō", "gengduo"],
     "english": ["more"]
+},
+{
+    "character": "后面",
+    "pinyin": ["hòumiàn", "houmian"],
+    "english": ["behind"]
+},
+{
+    "character": "前面",
+    "pinyin": ["qiánmiàn", "qianmian"],
+    "english": ["front", "infront"]
+},
+{
+    "character": "他在学校的后面",
+    "pinyin": ["tāzàixuéxiàodehòumiàn", "tazaixuexiaodehoumian"],
+    "english": ["he is behind the school"]
+},
+{
+    "character": "旁边",
+    "pinyin": ["pángbiān", "pangbian"],
+    "english": ["next to", "beside", "besides", "to the side"]
+},
+{
+    "character": "你几点睡觉",
+    "pinyin": ["nǐ jǐdiǎn shuìjiào" ,"nǐjǐdiǎnshuìjiào", "ni jidian shuijiao","nijidianshuijiao"],
+    "english": ["more"]
+},
+{
+    "character": "下雨",
+    "pinyin": ["xiàyǔ", "xiayu"],
+    "english": ["rain"]
+},
+{
+    "character": "语法",
+    "pinyin": ["yǔfǎ", "yufa"],
+    "english": ["grammar"]
+},
+{
+    "character": "健康",
+    "pinyin": ["jiànkāng", "jiankang"],
+    "english": ["health","healthy"]
+},
+{
+    "character": "请坐下",
+    "pinyin": ["qǐng zuòxià", "qǐngzuòxià", "qing zuoxia", "qingzuoxia"],
+    "english": ["please sit down", "please sit"]
+},
+{
+    "character": "幸运",
+    "pinyin": ["xìngyùn", "xingyun"],
+    "english": ["lucky", "luck", "fortunate"]
+},
+{
+    "character": "商店",
+    "pinyin": ["shāngdiàn", "shangdian"],
+    "english": ["store", "shop"]
 }
 ]
