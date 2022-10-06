@@ -1,0 +1,124 @@
+html,
+body {
+    margin: 0;
+    scrollbar-width: thin;
+}
+
+body {
+    background-color: #E85E5E;
+    font-family: 'Azeret Mono', monospace;
+    color: #fbfffe;
+}
+
+.wrapper {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 2em 0;
+    height: 100vh;
+}
+
+h1,
+mark {
+
+    font-size: 2.5em;
+    letter-spacing: 0.5em;
+    line-height: 1.5em;
+    max-width: 60%;
+    text-align: center;
+    line-break: anywhere;
+}
+
+mark {
+    background: none;
+    color: inherit;
+}
+
+.next {}
+
+.complete {
+    color: #45b8ed;
+}
+
+hr {
+    border-top: solid 1px #fbfffe;
+    width: 60%;
+}
+
+.scoreboard h2 {
+    letter-spacing: inherit;
+    min-height: 1em;
+    font-size: 2.5em;
+    text-align: center;
+}
+
+.scoreboard {
+
+    font-size: 1.5em;
+    line-height: 1.75em;
+
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+.highscores {
+    text-align: center;
+    font-family: 'Press Start 2P', monospace;
+}
+
+.highscores h3 {
+    margin: 0;
+}
+
+.highscores ol {
+    display: inline-block;
+    text-align: left;
+}
+
+.score-form{
+    font-family: 'Press Start 2P', monospace;
+    width: 20em;
+    margin: auto;
+}
+
+
+.score-form input{
+    width: 3em;
+    position: relative;
+}
+.score-form input[type=text] {
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px solid #fbfffe;;
+    font-size: 16px;
+    background-color: transparent;
+    padding: 6px 0;
+    outline: none;
+    color: #fbfffe;
+    font-family: 'Press Start 2P', monospace;
+    font-size: 1.5em;
+    text-transform: uppercase;
+}
+
+input:after{
+    content: 'e';
+    position: absolute;
+    background-color: #45b8ed;
+    width: 10px;
+    height: 10px;
+    left: 50px;
+    
+}
+
+.score-form:valid::after{
+    content:'(enter)'
+}
+
+
+.hidden{
+    display: none;
+}
